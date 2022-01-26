@@ -241,7 +241,7 @@ body.down .header-default.clone {
     padding-left: 1.3rem;
   }
 }
-@media (max-width: 700px) {
+@media (max-width: 999px) {
   .navbar-expand-lg {
     padding: 0 25px;
   }
