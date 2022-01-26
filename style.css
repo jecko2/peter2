@@ -241,7 +241,14 @@ body.down .header-default.clone {
     padding-left: 1.3rem;
   }
 }
-
+@media (max-width: 700px) {
+  .navbar-expand-lg {
+    padding: 0 25px;
+  }
+  .col-lg-8 {
+    margin-bottom: 20px;
+  }
+}
 @media (min-width: 1200px) {
   .container-xl {
     max-width: 1140px;
